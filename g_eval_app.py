@@ -412,7 +412,7 @@ def main():
                         st.error(f"❌ Agent API Error {response.status_code}: {response.text}")
                 
                 except Exception as e:
-                    st.error(f"💥 Error: {str(e)}")
+                    st.error(f"💥 Errorr: {str(e)}")
 
 if __name__ == "__main__":
     main()
