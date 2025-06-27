@@ -51,3 +51,9 @@ Thumbs.db
 
 # Streamlit
 .streamlit/
+
+# New environment variables
+OPENAI_API_KEY=your_openai_api_key
+ANTHROPIC_API_KEY=your_anthropic_api_key
+API_URL=your_agent_api_url
+API_KEY=your_agent_api_key
